@@ -1,0 +1,25 @@
+이미지 - <img src=""
+
+1) URL 홈페이지 링크
+
+2) 로컬파일주소
+	1. 절대 경로 - html과 같은 폴더에 있을때
+	2. 상대 경로 - (이 문서의 위치를 기준으로) '/img/profile.jpg' 
+			.  : 현재 폴더	)"./profile.jpg"
+			.. : 상위 폴더
+
+대체 텍스트 (Alternate Text) - alt
+
+- 접근성 (Accessibility)
+
+- <blockquote cite=""></blockquote>(인용문)에는 출처를 써줄수있다(cite="")
+
+- href (url scheme 사용가능)
+
+
+
+<style>
+	table * {border: 1px solid gray;}
+</style>
+
+

@@ -1,0 +1,20 @@
+☆win + ←↑→↓ = 창 나누기
+
+★win + R = 실행창
+-notepad = 메모장
+-downloads = 다운로드 폴더
+-cmd = 검색 명령어
+-ipconfig = 내 아이피 검색
+
+
+중첩 (Nesting)
+
+부모-자식 관계 (Parent-Children)
+
+형제 (Sibling)
+
+상속(Inheritance)
+
+localhost:8080
+
+Meta = refers to itself
